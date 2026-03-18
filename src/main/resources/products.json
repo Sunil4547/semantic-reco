@@ -1,0 +1,34 @@
+[
+  {
+    "main_category": "Clothing",
+    "title": "Men's Linen Beach Shirt",
+    "average_rating": 4.5,
+    "rating_number": 120,
+    "price": 29.99,
+    "features": ["Lightweight", "Breathable", "Quick Dry"],
+    "description": ["Perfect for summer beach outings"],
+    "images": [
+      {
+        "thumb": "url1",
+        "large": "url2",
+        "hi_res": "url3",
+        "variant": "front"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Product Demo",
+        "url": "http://video.url"
+      }
+    ],
+    "store": "BeachWear Co",
+    "categories": ["Men", "Shirts", "Summer Wear"],
+    "details": {
+      "material": "linen",
+      "brand": "BeachWear",
+      "size": "M"
+    },
+    "parent_asin": "ABC123",
+    "bought_together": ["XYZ789"]
+  }
+]
